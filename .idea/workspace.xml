@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05ce1cf8-8d63-4eb8-aa2e-0afff3474a6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/com/test/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadtest/__init__.py" afterDir="false" />
+    <list default="true" id="05ce1cf8-8d63-4eb8-aa2e-0afff3474a6c" name="Default" comment="python Test">
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Bags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/BinarySearchTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/EightQueens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/LRU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/RemoveDup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/ReverseList2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/SingleList/SingleList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/SingleList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/skiplist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/zxj/test/poem.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread/ThreadDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/threadtest/ThreadDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/suanfa/Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/suanfa/Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/suanfa/Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/zxj/test/RangeDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/zxj/test/RangeDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,31 +100,84 @@
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
     <expand />
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/test/Test.py">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/Reverse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/Person.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/RemoveDup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/Stack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/ReverseList2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/suanfa/Sort.py">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/LRU.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="85" column="16" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -125,9 +195,11 @@
     <findStrings>
       <find>find_in_excel</find>
       <find>time</find>
+      <find>item</find>
     </findStrings>
     <replaceStrings>
       <replace>now</replace>
+      <replace>data</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -136,23 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RandomCharacter.py" />
-        <option value="$PROJECT_DIR$/TestRandomCharacter.py" />
-        <option value="$PROJECT_DIR$/Load.py" />
-        <option value="$PROJECT_DIR$/Loan.py" />
-        <option value="$PROJECT_DIR$/MuplParam.py" />
-        <option value="$PROJECT_DIR$/Rose.py" />
-        <option value="$PROJECT_DIR$/Rose1.py" />
-        <option value="$PROJECT_DIR$/TestLoan.py" />
-        <option value="$PROJECT_DIR$/NearestPoint.py" />
-        <option value="$PROJECT_DIR$/FindNearestPoints.py" />
-        <option value="$PROJECT_DIR$/WriteDemo.py" />
-        <option value="$PROJECT_DIR$/Presidents.txt" />
-        <option value="$PROJECT_DIR$/ReadDemo.py" />
-        <option value="$PROJECT_DIR$/com/zxj/demo/object.py" />
-        <option value="$PROJECT_DIR$/com/zxj/demo/object1.py" />
-        <option value="$PROJECT_DIR$/com/zxj/demo/Photo.py" />
-        <option value="$PROJECT_DIR$/com/zxj/demo/Dog.py" />
         <option value="$PROJECT_DIR$/com/zxj/demo/CarStore.py" />
         <option value="$PROJECT_DIR$/com/zxj/laowang/老王开枪-1.py" />
         <option value="$PROJECT_DIR$/com/zxj/plane/game01.py" />
@@ -160,7 +215,6 @@
         <option value="$PROJECT_DIR$/Mpl_squares.py" />
         <option value="$PROJECT_DIR$/TwoSum.py" />
         <option value="$PROJECT_DIR$/File.py" />
-        <option value="$PROJECT_DIR$/com/zxj/test/RangeDemo.py" />
         <option value="$PROJECT_DIR$/com/suanfa/graph.py" />
         <option value="$PROJECT_DIR$/com/mdb/MDBTest.py" />
         <option value="$PROJECT_DIR$/com/suanfa/search.py" />
@@ -186,13 +240,32 @@
         <option value="$PROJECT_DIR$/com/suanfa/ArrayQueue.py" />
         <option value="$PROJECT_DIR$/exercise/Exception.py" />
         <option value="$PROJECT_DIR$/com/test/Test.py" />
+        <option value="$PROJECT_DIR$/com/zxj/test/RangeDemo.py" />
         <option value="$PROJECT_DIR$/com/suanfa/Sort.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/skiplist.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/square.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/SingleList/SingleList.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Tree.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/BinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Heap.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Order.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/EightQueens.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Bags.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Reverse.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Person.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/RemoveDup.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Stack.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/ReverseList2.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/LRU.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="x" value="51" />
+    <option name="y" value="54" />
+    <option name="width" value="1895" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -236,56 +309,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="suanfa" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pyexercise" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pyexercise" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (Pyexercise) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (Pyexercise) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-            </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (Pyexercise) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (Pyexercise) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (Pyexercise) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python-skeletons" type="51189727:PyUserSkeletonsNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -297,7 +320,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Cython" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -319,8 +342,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sort">
-    <configuration name="ArrayQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LRU">
+    <configuration name="LRU" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pyexercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -333,7 +356,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/ArrayQueue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/LRU.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,29 +365,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Pyexercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/Exception.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SingleLinkList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LinkedListNumAdd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pyexercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,7 +378,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/SingleLinkList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,7 +387,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RemoveDup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pyexercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,7 +400,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/RemoveDup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,7 +409,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReverseList2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pyexercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,12 +417,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/suanfa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/test/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/ReverseList2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pyexercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/suanfa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,19 +454,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.SingleLinkList" />
-      <item itemvalue="Python.ArrayQueue" />
-      <item itemvalue="Python.Sort" />
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python.Exception" />
+      <item itemvalue="Python.RemoveDup" />
+      <item itemvalue="Python.LinkedListNumAdd" />
+      <item itemvalue="Python.Stack" />
+      <item itemvalue="Python.ReverseList2" />
+      <item itemvalue="Python.LRU" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Sort" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Exception" />
-        <item itemvalue="Python.ArrayQueue" />
-        <item itemvalue="Python.SingleLinkList" />
+        <item itemvalue="Python.LRU" />
+        <item itemvalue="Python.ReverseList2" />
+        <item itemvalue="Python.Stack" />
+        <item itemvalue="Python.LinkedListNumAdd" />
+        <item itemvalue="Python.RemoveDup" />
       </list>
     </recent_temporary>
   </component>
@@ -465,11 +488,35 @@
       <workItem from="1564104975266" duration="2199000" />
       <workItem from="1564399063520" duration="1190000" />
       <workItem from="1566525782464" duration="1492000" />
+      <workItem from="1567749551259" duration="1023000" />
+      <workItem from="1572316584863" duration="8000" />
+      <workItem from="1572316616594" duration="2637000" />
+      <workItem from="1572508908736" duration="3534000" />
+      <workItem from="1572513746857" duration="1759000" />
+      <workItem from="1573697212577" duration="647000" />
+      <workItem from="1574062535649" duration="598000" />
+      <workItem from="1574130970790" duration="598000" />
+      <workItem from="1574753947669" duration="6773000" />
+      <workItem from="1574818519770" duration="34321000" />
+      <workItem from="1576056901416" duration="1810000" />
+      <workItem from="1576115027884" duration="458000" />
+      <workItem from="1576115565107" duration="9321000" />
+      <workItem from="1576457982846" duration="8273000" />
+      <workItem from="1576916887376" duration="8201000" />
+      <workItem from="1577016572566" duration="25165000" />
     </task>
+    <task id="LOCAL-00001" summary="python Test">
+      <created>1567749819798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567749819799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36355000" />
+    <option name="totallyTimeSpent" value="141481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,21 +528,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="51" y="54" width="1895" height="1057" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30357143" />
-      <window_info id="Structure" order="1" weight="0.18115942" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22089875" />
+      <window_info id="Structure" order="1" weight="0.18083379" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2476684" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37775204" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32124352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37823835" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925338" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908458" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3284974" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.502442" side_tool="true" weight="0.32958034" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.497558" weight="0.32802936" />
@@ -504,22 +550,22 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.5706134" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32919255" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32873377" />
       <window_info anchor="right" id="aiXcoder" order="5" side_tool="true" weight="0.32979977" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2181303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.18115942" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24913093" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37775204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3119171" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41139898" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925338" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908458" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3284974" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.502442" side_tool="true" weight="0.32958034" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.497558" weight="0.32802936" />
@@ -528,12 +574,16 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.5706134" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32919255" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32873377" />
       <window_info anchor="right" id="aiXcoder" order="5" side_tool="true" weight="0.32979977" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="python Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -555,8 +605,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/com/suanfa/Sort.py</url>
-          <line>82</line>
+          <line>93</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/suanfa/BinarySearchTree.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/suanfa/Person.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/suanfa/Person.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/suanfa/RemoveDup.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -569,150 +639,55 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Pyexercise$Sort.coverage" NAME="Sort Coverage Results" MODIFIED="1566526764185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
-    <SUITE FILE_PATH="coverage/Pyexercise$RevertList.coverage" NAME="RevertList Coverage Results" MODIFIED="1563788466411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Sort.coverage" NAME="Sort Coverage Results" MODIFIED="1574761691327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1576131300275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$RemoveDup.coverage" NAME="RemoveDup Coverage Results" MODIFIED="1576920713760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$Exception.coverage" NAME="Exception Coverage Results" MODIFIED="1564048288568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
-    <SUITE FILE_PATH="coverage/Pyexercise$Test.coverage" NAME="Test Coverage Results" MODIFIED="1564491093252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/test" />
-    <SUITE FILE_PATH="coverage/Pyexercise$SingleLinkList.coverage" NAME="SingleLinkList Coverage Results" MODIFIED="1563848028452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$LinkedListNumAdd.coverage" NAME="LinkedListNumAdd Coverage Results" MODIFIED="1576929094265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1577019060228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$BinarySearchTree.coverage" NAME="BinarySearchTree Coverage Results" MODIFIED="1575338452743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Order.coverage" NAME="Order Coverage Results" MODIFIED="1576065423082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$ArrayQueue.coverage" NAME="ArrayQueue Coverage Results" MODIFIED="1563868394479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$RevertList.coverage" NAME="RevertList Coverage Results" MODIFIED="1563788466411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$square.coverage" NAME="square Coverage Results" MODIFIED="1574909961697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1574934910468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Test.coverage" NAME="Test Coverage Results" MODIFIED="1564491093252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/test" />
+    <SUITE FILE_PATH="coverage/Pyexercise$RangeDemo.coverage" NAME="RangeDemo Coverage Results" MODIFIED="1572515443754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/zxj/test" />
+    <SUITE FILE_PATH="coverage/Pyexercise$ReverseList2.coverage" NAME="ReverseList2 Coverage Results" MODIFIED="1577175011507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$SingleList.coverage" NAME="SingleList Coverage Results" MODIFIED="1574910173608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa/SingleList" />
+    <SUITE FILE_PATH="coverage/Pyexercise$SingleLinkList.coverage" NAME="SingleLinkList Coverage Results" MODIFIED="1563848028452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Person.coverage" NAME="Person Coverage Results" MODIFIED="1576919676238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Bags.coverage" NAME="Bags Coverage Results" MODIFIED="1576151029161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$LRU.coverage" NAME="LRU Coverage Results" MODIFIED="1577239047069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Heap.coverage" NAME="Heap Coverage Results" MODIFIED="1575342589616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>cur.data==7</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cur==7</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>low + (high - low) &gt;&gt; 1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(high - low) &gt;&gt; 1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/zxj/demo/object1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/zxj/demo/Photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/zxj/demo/Dog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/zxj/demo/CarStore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/zxj/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/zxj/laowang/老王开枪-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/zxj/plane/game01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="785" column="4" selection-start-line="785" selection-start-column="4" selection-end-line="785" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-320387568/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/Singleton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mpl_squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv1/lib/python3.6/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49606">
-          <caret line="2967" column="16" selection-start-line="2967" selection-start-column="16" selection-end-line="2967" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WriteDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/zxj/test/RangeDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv1/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise/MethodTypetest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/suanfa/graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/mdb/MDBTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -751,14 +726,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-320387568/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="306" column="4" selection-start-line="306" selection-start-column="4" selection-end-line="306" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-320387568/time.py" />
     <entry file="file://$PROJECT_DIR$/object/Clock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5">
@@ -822,13 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_monkey.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -870,13 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/suanfa/SingleLinkList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/suanfa/ArrayQueue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
@@ -891,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-320387568/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2382">
-          <caret line="4675" lean-forward="true" selection-start-line="4675" selection-end-line="4675" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/test/Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -905,13 +852,187 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/suanfa/Sort.py">
+    <entry file="file://$PROJECT_DIR$/com/zxj/test/RangeDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="85" column="16" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="16" />
+        <state relative-caret-position="578">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/zxj/test/poem.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/skiplist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="118" column="15" selection-start-line="118" selection-start-column="15" selection-end-line="118" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/SingleLinkList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/EightQueens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Bags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-320387568/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5287">
+          <caret line="311" column="4" selection-start-line="311" selection-start-column="4" selection-end-line="311" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv1/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/SingleList/SingleList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="73" selection-start-line="73" selection-end-line="88" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/BinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="105" column="25" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/RemoveDup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/ReverseList2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/LRU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>

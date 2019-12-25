@@ -24,6 +24,17 @@ def InsertSort2(lst):
             j=j-1
         lst[j]=target            #把target插到空位
 
+def insertSort3(arr):
+    if len(arr)<=1:
+        return
+    for i in range(1,len(arr)):
+        j=i
+        for j in range(j,0,-1):
+            if arr[j]<arr[j-1]:
+                arr[j-1],arr[j]=arr[j],arr[j-1]
+            else:
+                break
+
 
 def insertSort(arr):
     if len(arr)<=1 :
@@ -133,16 +144,36 @@ def partition(L,left,right):
     L[left]=pivotKey
     return left
 
+def shellSort(arr):
+    d=len(arr)
+    while d>1:
+        d=d//2
+        for i in range(d):
+            for j in range(i+d,len(arr),d):
+                for k in range(j-d,-1,-d):
+                    if arr[k]>arr[j]:
+                       arr[k],arr[j]=arr[j],arr[k]
+                       print(arr)
+
+
+
+
+
+def insertI(arr,n,i):
+    pass
+
+
 def main():
     # print()
-    a=[2,1,5,2,5,3,4,2,3]
+    a=[2,1,5,2,0,5,3,4,2,3,7]
     # b = merge_sort(a)
-    myInsertSort(a)
+    # myInsertSort(a)
+    # insertSort3(a)
     # print(b)
     # c=quick_sort(a)
     # print(c)
     # quick_sort3(a,0,len(a)-1)
-
+    shellSort(a)
     print(a)
     # for i in range(5000000):
     #     a.append(random.randint(1, 5000000))
@@ -157,6 +188,7 @@ def main():
     # insert_sort(b)
     # end1 = datetime.datetime.now()
     # print('time2=%d'%(end1 - start1))
+
 
 
 
