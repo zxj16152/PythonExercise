@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05ce1cf8-8d63-4eb8-aa2e-0afff3474a6c" name="Default" comment="python Test">
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Bags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/BinarySearchTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/EightQueens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/LRU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/RemoveDup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/ReverseList2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/SingleList/SingleList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/SingleList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/skiplist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/suanfa/square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/zxj/test/poem.txt" afterDir="false" />
+    <list default="true" id="05ce1cf8-8d63-4eb8-aa2e-0afff3474a6c" name="Default" comment="python 算法">
+      <change afterPath="$PROJECT_DIR$/com/suanfa/Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/suanfa/SingleList/BiTNode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/suanfa/Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/suanfa/Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/zxj/test/RangeDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/zxj/test/RangeDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv1/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,16 +94,7 @@
         <entry file="file://$PROJECT_DIR$/com/suanfa/Reverse.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/suanfa/Person.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -131,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/suanfa/RemoveDup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="731">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -140,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
+            <state relative-caret-position="1581">
               <caret line="93" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
@@ -156,28 +127,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/suanfa/ReverseList2.py">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="578">
+              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py">
+        <entry file="file://$PROJECT_DIR$/venv1/lib/python3.6/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state relative-caret-position="5236">
+              <caret line="308" selection-start-line="308" selection-end-line="308" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/LRU.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/Pairs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/suanfa/SingleList/BiTNode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/suanfa/LRU.py">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm.vmoptions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -208,9 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com/zxj/demo/CarStore.py" />
-        <option value="$PROJECT_DIR$/com/zxj/laowang/老王开枪-1.py" />
-        <option value="$PROJECT_DIR$/com/zxj/plane/game01.py" />
         <option value="$PROJECT_DIR$/Singleton.py" />
         <option value="$PROJECT_DIR$/Mpl_squares.py" />
         <option value="$PROJECT_DIR$/TwoSum.py" />
@@ -259,14 +254,16 @@
         <option value="$PROJECT_DIR$/com/suanfa/ReverseList2.py" />
         <option value="$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py" />
         <option value="$PROJECT_DIR$/com/suanfa/LRU.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/Pairs.py" />
+        <option value="$PROJECT_DIR$/com/suanfa/SingleList/BiTNode.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="54" />
-    <option name="width" value="1895" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1624" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -290,7 +287,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,10 +305,18 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="suanfa" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Pyexercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pyexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleList" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,7 +324,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Cython" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -342,7 +346,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LRU">
+  <component name="RunManager" selected="Python.BiTNode">
+    <configuration name="BiTNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pyexercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/suanfa/SingleList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/SingleList/BiTNode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LRU" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pyexercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LinkedListNumAdd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pyexercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,29 +404,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RemoveDup" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Pyexercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/suanfa" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/RemoveDup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/suanfa/Pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,19 +458,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.RemoveDup" />
-      <item itemvalue="Python.LinkedListNumAdd" />
       <item itemvalue="Python.Stack" />
       <item itemvalue="Python.ReverseList2" />
       <item itemvalue="Python.LRU" />
+      <item itemvalue="Python.Pairs" />
+      <item itemvalue="Python.BiTNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BiTNode" />
+        <item itemvalue="Python.Pairs" />
         <item itemvalue="Python.LRU" />
         <item itemvalue="Python.ReverseList2" />
         <item itemvalue="Python.Stack" />
-        <item itemvalue="Python.LinkedListNumAdd" />
-        <item itemvalue="Python.RemoveDup" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +507,9 @@
       <workItem from="1576115565107" duration="9321000" />
       <workItem from="1576457982846" duration="8273000" />
       <workItem from="1576916887376" duration="8201000" />
-      <workItem from="1577016572566" duration="25165000" />
+      <workItem from="1577016572566" duration="36472000" />
+      <workItem from="1579081468307" duration="22000" />
+      <workItem from="1579081621772" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="python Test">
       <created>1567749819798</created>
@@ -512,11 +518,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567749819799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python 算法">
+      <created>1577239600052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577239600052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141481000" />
+    <option name="totallyTimeSpent" value="152989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,15 +541,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="54" width="1895" height="1057" extended-state="0" />
+    <frame x="-2" y="23" width="1922" height="1027" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22089875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2230523" />
       <window_info id="Structure" order="1" weight="0.18083379" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32124352" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37823835" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32124352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39037433" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925338" />
@@ -583,7 +596,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="python Test" />
+    <MESSAGE value="python 算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="python 算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -640,6 +654,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyexercise$Sort.coverage" NAME="Sort Coverage Results" MODIFIED="1574761691327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$BiTNode.coverage" NAME="BiTNode Coverage Results" MODIFIED="1577342526740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa/SingleList" />
     <SUITE FILE_PATH="coverage/Pyexercise$EightQueens.coverage" NAME="EightQueens Coverage Results" MODIFIED="1576131300275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$RemoveDup.coverage" NAME="RemoveDup Coverage Results" MODIFIED="1576920713760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$Exception.coverage" NAME="Exception Coverage Results" MODIFIED="1564048288568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise" />
@@ -648,6 +663,7 @@
     <SUITE FILE_PATH="coverage/Pyexercise$BinarySearchTree.coverage" NAME="BinarySearchTree Coverage Results" MODIFIED="1575338452743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$Order.coverage" NAME="Order Coverage Results" MODIFIED="1576065423082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$ArrayQueue.coverage" NAME="ArrayQueue Coverage Results" MODIFIED="1563868394479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
+    <SUITE FILE_PATH="coverage/Pyexercise$Pairs.coverage" NAME="Pairs Coverage Results" MODIFIED="1577327905610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$RevertList.coverage" NAME="RevertList Coverage Results" MODIFIED="1563788466411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$square.coverage" NAME="square Coverage Results" MODIFIED="1574909961697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
     <SUITE FILE_PATH="coverage/Pyexercise$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1574934910468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/suanfa" />
@@ -688,27 +704,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/mdb/MDBTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/test/FunctionTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/test/metaclass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/process/系统进程.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -949,31 +944,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv1/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5236">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/suanfa/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/suanfa/SingleList/SingleList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
         </state>
       </provider>
     </entry>
@@ -994,24 +968,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/suanfa/RemoveDup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/suanfa/Reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="453">
+          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
         </state>
       </provider>
     </entry>
@@ -1022,17 +982,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/RemoveDup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/LinkedListNumAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/suanfa/Mege2LinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="578">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv1/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/suanfa/LRU.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="204">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/suanfa/SingleList/BiTNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
